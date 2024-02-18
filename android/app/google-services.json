@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "632332478928",
+    "project_id": "photun-8b9a7",
+    "storage_bucket": "photun-8b9a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632332478928:android:acb49beb161a29dc23b1d5",
+        "android_client_info": {
+          "package_name": "com.techbrainllc.photun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632332478928-1tojcq6pvqk4r5tn7gm2jok9in9uu44a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techbrainllc.photun",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "632332478928-pnib5mbvrlpmkupdmjoncuroemi4bi8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRMXuSvZRST5abmvGKJ-nZDlhU-YAUM9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632332478928-pnib5mbvrlpmkupdmjoncuroemi4bi8a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "632332478928-llb681ckmmtjbceg0loaoc3g8omuoenn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.techbrainllc.photun"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
